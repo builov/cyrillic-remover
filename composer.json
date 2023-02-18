@@ -1,0 +1,13 @@
+{
+    "name": "builov/cyrillic-remover",
+    "description": "n",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Builov\\CyrillicRemover\\": "src/"
+        }
+    },
+    "require": {
+        "ext-mbstring": "*"
+    }
+}
